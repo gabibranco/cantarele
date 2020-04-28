@@ -1,0 +1,38 @@
+h1 {
+  border-top: 1px solid #1B83DD;
+  width: 95vw;
+  margin: 0 auto;
+  color: #1B83DD;
+}
+
+.header {
+  padding: 10px;
+  width: 100vw;
+  background: #EAEAEA;
+}
+
+.testimonials {
+  font-family: 'Termina';
+  overflow-x: scroll;
+}
+
+.content {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.testimonial {
+  margin-right: 15px;
+  padding-right: 10px;
+  border-right: 1px solid #1B83DD;
+}
+
+.signature {
+  font-weight: 700;
+  font-size: 20px;
+  color: #1B83DD;
+}
+
+video {
+  width: 100%;
+}
