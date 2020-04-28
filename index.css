@@ -12,7 +12,7 @@ h1 {
 }
 
 h1 img {
-  width: 60%;
+  height: 20px;
 }
 
 .testimonials {
@@ -46,7 +46,4 @@ video {
     width: 60vw;
     margin: 0 auto;
   }
-  h1 img {
-  width: 30%;
-}
 }
