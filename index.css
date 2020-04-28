@@ -11,6 +11,10 @@ h1 {
   background: #EAEAEA;
 }
 
+h1 img {
+  width: 60%;
+}
+
 .testimonials {
   font-family: 'Termina';
   overflow-x: scroll;
@@ -42,3 +46,7 @@ video {
     width: 60vw;
     margin: 0 auto;
   }
+  h1 img {
+  width: 30%;
+}
+}
