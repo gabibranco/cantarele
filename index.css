@@ -1,3 +1,7 @@
+body {
+  font-family: 'Termina';
+}
+
 h1 {
   border-top: 1px solid #1B83DD;
   width: 95%;
@@ -16,13 +20,16 @@ h1 img {
 }
 
 .testimonials {
-  font-family: 'Termina';
   overflow-x: scroll;
 }
 
 .content {
   font-weight: 400;
   font-size: 12px;
+}
+
+p {
+  font-family: lavigne-text, sans-serif;
 }
 
 .testimonial {
