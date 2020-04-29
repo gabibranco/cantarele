@@ -34,8 +34,9 @@ h1 img {
   font-weight: 400;
   font-size: 12px;
   width: 45vw;
-  max-height: 120px;
+  max-height: 110px;
   overflow: scroll;
+  margin-bottom: 5px;
 }
 
 .testimonial {
