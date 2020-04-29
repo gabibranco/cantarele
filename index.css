@@ -38,10 +38,6 @@ h1 img {
   overflow: scroll;
 }
 
-p {
-  /*font-family: lavigne-text, sans-serif;*/
-}
-
 .testimonial {
   margin-right: 15px;
   padding-right: 10px;
@@ -71,5 +67,8 @@ video {
   body {
     width: 60vw;
     margin: 0 auto;
+  }
+  .content {
+    width: 20vw;
   }
 }
